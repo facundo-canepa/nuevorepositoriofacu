@@ -6,3 +6,9 @@ def mensaje3():
 
 def mensaje3():
     print("cambiandooooooo cambiandooooooo")
+
+    
+def mensaje7():
+    print("vamo' vamo' Argentina!!!!!!!!!!")
+
+
