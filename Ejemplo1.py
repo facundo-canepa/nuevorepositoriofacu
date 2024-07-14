@@ -3,3 +3,6 @@ def mensaje1():
 
 def mensaje3():
     print("mi mensaje 3")
+
+def mensaje3():
+    print("cambiandooooooo cambiandooooooo")
